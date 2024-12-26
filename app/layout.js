@@ -1,5 +1,10 @@
 import { GeistSans } from "geist/font/sans"
 
+export const metadata = {
+  title: "API Client",
+  description: "",
+}
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={GeistSans.className}>
