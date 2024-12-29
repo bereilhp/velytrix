@@ -28,7 +28,7 @@ Velytrix is a lightweight and intuitive API client built using Next.js. It enabl
 Ensure you have the following installed on your system:
 
 - Node.js (>= 16.x)
-- npm or yarn
+- npm
 
 ### Installation
 
